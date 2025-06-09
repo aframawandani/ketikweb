@@ -1,5 +1,3 @@
-import { PropsWithChildren } from "react"
-
 export default function Header() {
   return (
     <header className="site-header site-header--menu-left site-header--transparent site-header--sticky">
