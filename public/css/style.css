@@ -2969,17 +2969,17 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .service-card:hover .service-card__icon {
-  color: #3147FF;
+  color: #0c5ea7;
 }
 .service-card:hover .service-card__link {
-  color: #3147FF;
+  color: #0c5ea7;
 }
 .service-card:hover .service-card__link:after {
   left: 4px;
 }
 .service-card.hvr-fill:hover {
-  background: #FAF9F5;
-  border-color: #FAF9F5;
+  background: #f1f8fe;
+  border-color: #a0cff8;
 }
 .service-card.background-2 {
   background: #FFFFFF;
@@ -16700,7 +16700,7 @@ Common: Spacing Gutters
 }
 
 .bg-offwhite-3 {
-  background: #F5F3EA;
+  background: #f1f8fe;
 }
 
 .bg-offwhite-dark {
